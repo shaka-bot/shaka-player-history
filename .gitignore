@@ -1,6 +1,7 @@
 intermediate
 shaka-streamer
 tmp
+__pycache__/
 .bash_history
 .lesshst
 .config/
